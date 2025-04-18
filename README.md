@@ -15,11 +15,11 @@ These assets help illustrate the scope, quality, and diversity of the work I've 
 
 ## 📌 Important Notice
 
-Some images in this repository feature work done for clients and may include representations of their products, brands, or content. These are displayed **strictly for portfolio and demonstration purposes**.
+Some images in this repository may include **photos of featured clients**, used with permission for portfolio presentation purposes.
 
-> 🛡️ **Client confidentiality and integrity are respected at all times.**
-> 
-> If you are a featured client and would like your content removed or modified, please feel free to contact me directly.
+> 🛡️ **Client privacy and respect are a top priority.**  
+> If you are a featured client and would like your image removed or modified, please contact me directly.
+
 
 ## 🧭 Usage Guidelines
 
